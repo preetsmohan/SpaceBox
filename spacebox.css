@@ -150,7 +150,7 @@ body {
 	transform: rotate(90deg) translateX(90px)translateZ(0) rotate(-90deg);
 	 height:36px;
 	width:36px; 
-	   box-shadow: inset 28px 0 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
+	   box-shadow: inset 26px 0 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
 	  }
 	37.5%{
 		   box-shadow: inset 38px 0 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
@@ -159,7 +159,7 @@ body {
     height:28px;
 	width:28px;
 	margin-left:12px;
-	   box-shadow: inset 33px 0px 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
+	   box-shadow: inset 31px 0px 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
 	}
   75%{
   height:36px;
