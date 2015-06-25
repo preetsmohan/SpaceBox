@@ -8,7 +8,8 @@ loop={
    star.style.top=this.rand()*100+"%";
    star.style.left=this.rand()*100+"%";
    star.style.webkitAnimationDelay=(this.rand()*3)+"s";
-   star.style.mozAnimationDelay=this.rand()+"s";
+   star.style.mozAnimationDelay=(this.rand()*3)+"s";
+   star.style.animationDelay=(this.rand()*3)+"s";
    body.appendChild(star);
   };
  },
