@@ -328,7 +328,7 @@ body {
 	transform: rotate(90deg) translateX(90px)translateZ(0) rotate(-90deg);
 	 height:36px;
 	width:36px; 
-	   box-shadow: inset 7px 9px 1px 0px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
+	   box-shadow: inset 7px 3px 1px 0px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
 	  }
 	37.5%{
 		   box-shadow: inset 8px 25px 0 0px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
@@ -348,7 +348,7 @@ body {
   height:36px;
 	width:36px;
 	transform: rotate(270deg) translateX(75px) translateZ(0) rotate(-270deg);
-  	box-shadow: inset 5px -0px 0px 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
+  	box-shadow: inset 4px -3px 0px 1px rgba(0, 0, 0, 0.5), inset -2px 0 5px 0px rgba(255, 255, 255, 0.2);
 	
   }
   100% {
